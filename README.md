@@ -1,55 +1,41 @@
-💫 BIENVENIDO A MI PERFIL 
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"/>
+### 💫 BIENVENIDO A MI PERFIL 
 
 
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### Soy Mario Ariel Galarza Mancedo
 -----
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+Me considero una persona emprendedora, me gusta aprender cosas nuevas todos los días y me motiva la idea de ayudar a los demás haciendo que las cosas funcionen de una manera más fácil y sistemática. Me especializo como Freelancer pero estoy abierto a la posibilidad de un trabajo de dependencia.
 
-### My skills :woman_technologist:
-- **Competitive Coding**
+### My skills: 
+
 <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
-</tbody>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </table>
 
-- **Web Development**
+
 <table>
 <tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
+<td align="center" >
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ </td>
  
-<td align="center" width="33%">
+<td align="center">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
+ 
+ <td align="center">
+<img height=100px src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> 
+</td>
+ 
+ <td align="center" >
+<img height=100px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
+</td>
 
-<td align="center" width="33%">
+<td align="center" >
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 <tr>
@@ -58,34 +44,16 @@
 </tbody>
 </table>
 
-- **Data Science**
-  - Data Visualization
-  - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
 
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+  
 
-### I'm currently learning :open_book:
-- **Competitive Coding**
-    - Dynamic Programming
+## Recientemente estoy leyendo:
     
-- **Web Development**
+
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
+
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
@@ -93,38 +61,25 @@
 </tbody>
 </table>
 
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
-    
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
-</p>
 
-<br> <br>
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shreyachatterjee05/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Shreya549">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br><br>
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+ 📊 GitHub Stats:
+ 
+![](https://github-readme-stats.vercel.app/api?username=LosGala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LosGala&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LosGala&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-⭐️ From [Shreya549](https://github.com/Shreya549)
+
+
+🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/titowanow#7708) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/galar3d_c0d3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mario-ariel-galarza-mancedo-721537206) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/eltitowanow) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mario_3112) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@titowanow4080) 
+
+
+
+💰 Me puedes ayudar 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arielmancedo)
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/LosGala911) 
