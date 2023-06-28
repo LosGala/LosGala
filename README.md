@@ -59,7 +59,7 @@ Me considero una persona emprendedora, me gusta aprender cosas nuevas todos los 
  <tr>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
 </tr>
 </tbody>
