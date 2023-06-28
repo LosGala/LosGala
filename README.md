@@ -20,9 +20,9 @@ Me considero una persona emprendedora, me gusta aprender cosas nuevas todos los 
 <tbody>
 
 <td align="center" >
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
  </td>
- 
+
 <td align="center">
 <img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
 </td>
@@ -36,7 +36,11 @@ Me considero una persona emprendedora, me gusta aprender cosas nuevas todos los 
 </td>
 
 <td align="center" >
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> 
+</td>
+
+<td align="center" >
+<img height=100px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
 <tr>
  
