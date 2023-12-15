@@ -9,20 +9,20 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects.<br />
 
 <br/>
+
 <hr/>
 
 
 
 ### 🧧 Connect with me:
-[<img align="left" alt="subhamrex" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website]
-[<img align="left" alt="subhamrex | Facebook" width="25px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
-[<img align="left" alt="subhamrex | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
-[<img align="left" alt="subhamrex | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
-[<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
+[<img align="left" alt="LosGala" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website]
+[<img align="left" alt="LosGala | Facebook" width="25px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
+[<img align="left" alt="LosGala | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
+[<img align="left" alt="LosGala | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
+[<img align="left" alt="LosGala | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
 <br />
 
-[<img align="right"  src="[https://i.imgur.com/lPVdtDG.gif" alt="Coder GIF" height="280">][myprofile]
-
+[<img align="right"  src="https://i.imgur.com/t/gaming/Dbs3fhb" alt="Coder GIF" height="280">]
 
 <hr/>
 
@@ -72,20 +72,20 @@
 
 ### 💳 Language Card
 
-<img align="center" alt="subhamrex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamrex&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="LosGala's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LosGala&&layout=compact&&theme=tokyonight" />
 
 <br />
 
 <hr/>
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhamrex&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LosGala&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
 </details>
 
 
 
 
-[myprofile]:https://github.com/subhamrex
+[myprofile]:https://github.com/LosGala
 [anaconda]:https://www.anaconda.com/
 [PowerBI]:https://powerbi.microsoft.com/en-us/
 [R]:https://www.r-project.org/
