@@ -21,7 +21,7 @@
 [<img align="left" alt="LosGala" | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
 <br />
 
-[<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>][myprofile]
+
 
 
 <hr/>
