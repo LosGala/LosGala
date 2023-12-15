@@ -44,7 +44,7 @@
 <br/>
 <br/>
 [<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][openCV]
-[<img align="left" alt="Typescript" width="33px" src="https://i.imgur.com/6md14Ny.png" />][typescript]
+
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 <br/>
 <br/>
