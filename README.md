@@ -45,7 +45,7 @@
 <br/>
 <br/>
 [<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][mongoDB]
-[<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]
+
 [<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />][flask]
 <br/>
 <br/>
@@ -54,9 +54,9 @@
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 <br/>
 <br/>
-[<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][notepad++]
+
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
-[<img align="left" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />][mediapipe]
+
 
 <br />
 
@@ -77,10 +77,7 @@
 <br />
 
 <hr/>
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhamrex&show_icons=true&hide_border=true&hide=stars,prs,issues&theme=radical" />
-</details>
+
 
 
 
@@ -88,11 +85,11 @@
 [myprofile]:https://github.com/LosGala
 [anaconda]:https://www.anaconda.com/
 [PowerBI]:https://powerbi.microsoft.com/en-us/
-[R]:https://www.r-project.org/
+
 [vscode]:https://code.visualstudio.com/
 [jupyter]:https://jupyter.org/
-[pycharm]:https://www.jetbrains.com/pycharm/
-[mediapipe]:https://google.github.io/mediapipe/
+
+
 [openCV]:https://opencv.org/
 [tensorflow]:https://www.tensorflow.org/
 [django]:https://www.djangoproject.com/
@@ -103,5 +100,4 @@
 [js]:https://www.w3schools.com/js/DEFAULT.asp
 [react]:https://reactjs.org/
 [mysql]:https://www.mysql.com/
-[typescript]:https://www.typescriptlang.org/
-[notepad++]:https://notepad-plus-plus.org/
+
