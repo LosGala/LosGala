@@ -21,7 +21,7 @@
 [<img align="left" alt="subhamrex | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
 <br />
 
-[<img align="right"  src="https://i.imgur.com/lPVdtDG.gif" alt="Coder GIF" height="280">][myprofile]
+[<img align="right"  src="[https://i.imgur.com/lPVdtDG.gif" alt="Coder GIF" height="280">][myprofile]
 
 
 <hr/>
