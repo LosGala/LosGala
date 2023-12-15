@@ -19,11 +19,6 @@
 [<img align="left" alt="LosGala | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />]
 [<img align="left" alt="LosGala | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />]
 [<img align="left" alt="LosGala | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />]
-<br />
-
-
-
-<hr/>
 
 
 ### ⚙ Languages and Tools:
@@ -53,13 +48,8 @@
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 <br/>
 <br/>
-
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
-
-
 <br />
-
-
 [<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
 [<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
 
@@ -77,18 +67,11 @@
 
 <hr/>
 
-
-
-
-
 [myprofile]:https://github.com/LosGala
 [anaconda]:https://www.anaconda.com/
 [PowerBI]:https://powerbi.microsoft.com/en-us/
-
 [vscode]:https://code.visualstudio.com/
 [jupyter]:https://jupyter.org/
-
-
 [openCV]:https://opencv.org/
 [tensorflow]:https://www.tensorflow.org/
 [django]:https://www.djangoproject.com/
