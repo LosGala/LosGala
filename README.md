@@ -21,7 +21,6 @@
 [<img align="left" alt="LosGala | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />]
 <br />
 
-[<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
 
 
 <hr/>
