@@ -6,8 +6,8 @@
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Machine Learning and React.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
-- 🥅 2021 Goals: Contribute more to Open Source projects.<br />
-- ⚡ Fun fact: I love to draw Anime character and watch Anime.
+- 🥅 2023 Goals: Contribute more to Open Source projects.<br />
+- ⚡ hobbies: I like cycling and traveling by motorcycle to see other landscapes.
 <br/>
 <hr/>
 
