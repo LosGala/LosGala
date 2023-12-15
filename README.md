@@ -57,3 +57,31 @@
 <br/>
 
 
+
+
+
+[anaconda]:https://www.anaconda.com/
+[PowerBI]:https://powerbi.microsoft.com/en-us/
+[R]:https://www.r-project.org/
+[vscode]:https://code.visualstudio.com/
+[jupyter]:https://jupyter.org/
+[pycharm]:https://www.jetbrains.com/pycharm/
+[mediapipe]:https://google.github.io/mediapipe/
+[openCV]:https://opencv.org/
+[tensorflow]:https://www.tensorflow.org/
+[django]:https://www.djangoproject.com/
+[flask]:https://flask.palletsprojects.com/en/1.1.x/
+[git]:https://git-scm.com/
+[mongoDB]:https://www.mongodb.com/
+[nodejs]:https://nodejs.org/en/
+[js]:https://www.w3schools.com/js/DEFAULT.asp
+[react]:https://reactjs.org/
+[mysql]:https://www.mysql.com/
+[typescript]:https://www.typescriptlang.org/
+[notepad++]:https://notepad-plus-plus.org/
+[python]:https://www.python.org/
+[css]:https://www.w3schools.com/css/
+[html]:https://www.w3schools.com/html/
+
+
+
