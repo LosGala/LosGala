@@ -29,57 +29,35 @@
 <br/>
 <br/>
 [<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" />][tensorflow]
-[<img align="left" alt="SQL" width="33px" src="https://camo.githubusercontent.com/b65f9026a0274fb351e57ed757a7c01e2538734b2278c067b5d6ca4650a6e4ce/68747470733a2f2f6c6162732e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6d7973716c2d6c6f676f2e737667" />][mysql]
-[<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="SQL" width="33px" src="https://camo.githubusercontent.com/b65f9026a0274fb351e57ed757a7c01e2538734b2278c067b5d6ca4650a6e4ce/68747470733a2f2f6c6162732e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6d7973716c2d6c6f676f2e737667" />]
+[<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 <br/>
 <br/>
-[<img align="left" alt="NodeJS" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Django" width="33px" src="https://i.imgur.com/6HTssDd.png" />][django]
-[<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][python]
+[<img align="left" alt="NodeJS" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="Django" width="33px" src="https://i.imgur.com/6HTssDd.png" />]
+[<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />]
 <br/>
 <br/>
-[<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][mongoDB]
-
-[<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />][flask]
+[<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />]
+[<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />]
 <br/>
 <br/>
-[<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][openCV]
-
-[<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
+[<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />]
 <br/>
 <br/>
-[<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
+[<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />]
 <br />
-[<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
-[<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
-
+[<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />]
+[<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />]
 <br/>
-
 [<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">][myprofile]
-
 <hr/>
 
-### 💳 Language Card
+
 
 <img align="center" alt="LosGala's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamrex&&layout=compact&&theme=tokyonight" />
 
 <br />
 
 <hr/>
-
-[myprofile]:https://github.com/LosGala
-[anaconda]:https://www.anaconda.com/
-[PowerBI]:https://powerbi.microsoft.com/en-us/
-[vscode]:https://code.visualstudio.com/
-[jupyter]:https://jupyter.org/
-[openCV]:https://opencv.org/
-[tensorflow]:https://www.tensorflow.org/
-[django]:https://www.djangoproject.com/
-[flask]:https://flask.palletsprojects.com/en/1.1.x/
-[git]:https://git-scm.com/
-[mongoDB]:https://www.mongodb.com/
-[nodejs]:https://nodejs.org/en/
-[js]:https://www.w3schools.com/js/DEFAULT.asp
-[react]:https://reactjs.org/
-[mysql]:https://www.mysql.com/
 
