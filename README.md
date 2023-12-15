@@ -14,11 +14,11 @@
 
 
 ### 🧧 Connect with me:
-[<img align="left" alt="LosGala" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />][website]
-[<img align="left" alt="LosGala | Facebook" width="25px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
-[<img align="left" alt="LosGala | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
-[<img align="left" alt="LosGala | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />][linkedin]
-[<img align="left" alt="LosGala | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
+[<img align="left" alt="LosGala" width="25px" src="http://pngimg.com/uploads/globe/globe_PNG100096.png" />]
+[<img align="left" alt="LosGala | Facebook" width="25px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />]
+[<img align="left" alt="LosGala | Twitter" width="25px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />]
+[<img align="left" alt="LosGala | LinkedIn" width="25px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png" />]
+[<img align="left" alt="LosGala | Instagram" width="25px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />]
 <br />
 
 [<img align="right"  src="https://i.imgur.com/UWbDP3y.gif" alt="Coder GIF" height="280">][myprofile]
@@ -29,9 +29,9 @@
 
 ### ⚙ Languages and Tools:
 
-[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 <br/>
 <br/>
 [<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" />][tensorflow]
