@@ -1,8 +1,8 @@
-### Hi, I am LosGala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi, I am Mario A. Galarza Mancedo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">]
 <hr/>
 
-### I am a Self-learnt Full-stack Machine Learning expert and Web Developer. 
+### I am a Self-learnt Full-stack Developer Python expert and Data Analyst. 
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Machine Learning and React.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
