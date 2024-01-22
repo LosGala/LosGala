@@ -2,9 +2,9 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">]
 <hr/>
 
-### I am a Self-learnt Full-stack Developer Python expert and Data Analyst. 
+### I am a Full-stack Developer Python expert and Data Analyst. 
 - 🔭 I just tried to make a readme file for my github account.<br />
-- 🌱 I’m currently learning Machine Learning and React.<br />
+- 🌱 I’m currently learning Machine Learning.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
 - 🥅 2023 Goals: Contribute more to Open Source projects.<br />
 
