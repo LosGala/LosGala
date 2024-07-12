@@ -40,13 +40,11 @@
 <br/>
 <br/>
 [<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][openCV]
-[<img align="left" alt="Typescript" width="33px" src="https://i.imgur.com/6md14Ny.png" />][typescript]
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 <br/>
 <br/>
 [<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][notepad++]
 [<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
-[<img align="left" alt="Mediapipe" width="33px" src="https://i.imgur.com/BdWJk0i.png" />][mediapipe]
 
 <br />
 
@@ -66,7 +64,6 @@
 [vscode]:https://code.visualstudio.com/
 [jupyter]:https://jupyter.org/
 [pycharm]:https://www.jetbrains.com/pycharm/
-[mediapipe]:https://google.github.io/mediapipe/
 [openCV]:https://opencv.org/
 [tensorflow]:https://www.tensorflow.org/
 [django]:https://www.djangoproject.com/
@@ -77,7 +74,6 @@
 [js]:https://www.w3schools.com/js/DEFAULT.asp
 [react]:https://reactjs.org/
 [mysql]:https://www.mysql.com/
-[typescript]:https://www.typescriptlang.org/
 [notepad++]:https://notepad-plus-plus.org/
 [python]:https://www.python.org/
 [css]:https://www.w3schools.com/css/
