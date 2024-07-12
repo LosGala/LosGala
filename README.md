@@ -39,7 +39,6 @@
 [<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />][flask]
 <br/>
 <br/>
-[<img align="left" alt="OpenCV" width="33px" src="https://i.imgur.com/xFMyVyV.png" />][openCV]
 [<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
 <br/>
 <br/>
@@ -64,7 +63,6 @@
 [vscode]:https://code.visualstudio.com/
 [jupyter]:https://jupyter.org/
 [pycharm]:https://www.jetbrains.com/pycharm/
-[openCV]:https://opencv.org/
 [tensorflow]:https://www.tensorflow.org/
 [django]:https://www.djangoproject.com/
 [flask]:https://flask.palletsprojects.com/en/1.1.x/
