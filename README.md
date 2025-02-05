@@ -54,12 +54,11 @@
 
 - Python for Data Science | IBM
 
-- Universidad de Buenos Aires | Full Stack Developer
+- Full Stack Developer | Universidad de Buenos Aires
   
-- Fundación Barceló | Medicina
+- Medicina | Fundación Barceló
 
-- Administration and management of organizations | Roubineau Institute
-
+- Roubineau Institute | Administration and management of organizations
 
 <!--
 **LosGala/LosGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
