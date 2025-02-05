@@ -1,74 +1,78 @@
-### Hi, I am Mario A. Galarza Mancedo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-[<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">]
+# 👨‍💼 Mario Galarza
+
+**`Data Analyst | Developer Python`**
+
+👋🏻 I am Mario Galarza, a Data Analyst with honors degrees in Business Management and Accounting. Since discovering Business Intelligence tools in my first job, I have become passionate about data analysis and its ability to generate actionable insights that drive business results.
+
+🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Qlik Sense, Microsoft Power BI, Looker Studio, Python, ETL, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic and Mercado Libre, achieving notable objectives:
+
+📊 Managed over 100 initiatives through BI solutions, reducing project management times.
+💎 Facilitated securing over USD 15M in funding for local and international clients.
+📈 Developed dashboards to visualize and control over USD 80M in revenue.
+👨🏻‍💻 Contact me if you are looking for a professional Data Analyst with solid technical and business skills. I am committed to generating valuable analysis and producing results through data and technology applied to business.
+
+📫 Reach me at: [losgala911@hotmail.com](mailto:losgala911@hotmail.com)
+
+<p align="left">
+  <a src="https://www.linkedin.com/in/losgala/">
+    <img alt="LinkedIn profile" title="Let's connect!" src="https://github.com/Tino27Gut/Tino27Gut/assets/95548866/f8d06d4d-0779-40d7-8653-6d3e121765eb" height="20px">
+  </a>
+</p>
+
+###### Checkout my latest LinkedIn posts [here](https://www.linkedin.com/in/losgala/recent-activity/all/)
+
+---
+
+### 👨‍💻 Technologies and Languages
+<p>
+  <img alignt="left" alt="qliksense" width=60px style="padding-right:10px;" src="https://github.com/Tino27Gut/Tino27Gut/assets/95548866/0baad322-49e6-422f-94cb-fb610a08dbb1"/>
+  <img alignt="left" alt="powerbi" width=60px style="padding-right:10px;" src="https://github.com/Tino27Gut/Tino27Gut/assets/95548866/15de9809-5b0b-4d14-8fdc-f01c0406d1c8"/>
+  <img alignt="left" alt="mysql" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img alignt="left" alt="python" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img alignt="left" alt="numpy" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  <img alignt="left" alt="pandas" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img alignt="left" alt="html" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alignt="left" alt="css" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alignt="left" alt="javascript" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</p>
+
+#
+
+### 💼 Profesional Experience
+
+- BI Analyst Consultant | Sciarriello Distributions
+
+- Big Data & Analytics Development Analyst | Farmalife 
+
+- Business Analyst | RV Distribution 
 
 
-### I am a Full-stack Developer Python expert and Data Analyst. 
-- 🔭 I just tried to make a readme file for my github account.<br />
-- 🌱 I’m currently learning Machine Learning.<br />
-- 👯 I’m wanting to create more awesome projects.<br />
+### 🎓 Education
+- Databricks for Data Engineering | Databricks
+
+- Data Analytics Essentials | Cisco
+
+- Python for Data Science | IBM
+
+- Universidad de Buenos Aires | Full Stack Developer
+  
+- Fundación Barceló | Medicina
+
+- Administration and management of organizations | Roubineau Institute
 
 
-<br/>
-
-
-
-[<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">]
-
-
-
-### ⚙ Languages and Tools:
-
-[<img align="left" alt="vscode" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-<br/>
-<br/>
-[<img align="left" alt="TF" width="33px" src="https://i.imgur.com/oGwE8PR.png" />][tensorflow]
-[<img align="left" alt="SQL" width="33px" src="https://camo.githubusercontent.com/b65f9026a0274fb351e57ed757a7c01e2538734b2278c067b5d6ca4650a6e4ce/68747470733a2f2f6c6162732e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6d7973716c2d6c6f676f2e737667" />][mysql]
-[<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-<br/>
-<br/>
-[<img align="left" alt="NodeJS" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Django" width="33px" src="https://i.imgur.com/6HTssDd.png" />][django]
-[<img align="left" alt="python" width="33px" src="https://i.imgur.com/gixjL0a.png" />][python]
-<br/>
-<br/>
-[<img align="left" alt="MongoDB" width="33px" src="https://i.imgur.com/uyStyoI.png" />][mongoDB]
-[<img align="left" alt="Pycharm" width="33px" src="https://i.imgur.com/N3UnDaG.png" />][pycharm]
-[<img align="left" alt="Flask" width="33px" src="https://i.imgur.com/0Gs9Vqu.png" />][flask]
-<br/>
-<br/>
-[<img align="left" alt="Jupyter" width="33px" src="https://i.imgur.com/f5M1VWO.png" />][jupyter]
-<br/>
-<br/>
-[<img align="left" alt="Notepad++" width="33px" src="https://i.imgur.com/s8PYCpN.png" />][notepad++]
-[<img align="left" alt="gitbash" width="33px" src="https://i.imgur.com/FgD2Tpt.png" />][git]
-
-<br />
-
-[<img align="left" alt="R" width="33px" src="https://i.imgur.com/LGgB5r4.png" />][R]
-[<img align="left" alt="PowerBI" width="33px" src="https://i.imgur.com/uDWUWAY.png" />][PowerBI]
-[<img align="left" alt="anaconda" width="33px" src="https://i.imgur.com/SUxYIXm.png" />][anaconda]
-
-<br/>
-
-
-
-
-
-[anaconda]:https://www.anaconda.com/
-[PowerBI]:https://powerbi.microsoft.com/en-us/
-[R]:https://www.r-project.org/
-[vscode]:https://code.visualstudio.com/
-[jupyter]:https://jupyter.org/
-[pycharm]:https://www.jetbrains.com/pycharm/
-[tensorflow]:https://www.tensorflow.org/
-[django]:https://www.djangoproject.com/
-[flask]:https://flask.palletsprojects.com/en/1.1.x/
-[git]:https://git-scm.com/
-[mongoDB]:https://www.mongodb.com/
-[nodejs]:https://nodejs.org/en/
-[js]:https://www.w3schools.com/js/DEFAULT.asp
+<!--
+**LosGala/LosGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 [react]:https://reactjs.org/
 [mysql]:https://www.mysql.com/
 [notepad++]:https://notepad-plus-plus.org/
