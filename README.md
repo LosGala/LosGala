@@ -2,7 +2,7 @@
 
 **`Data Analyst | Developer Python`**
 
-👋🏻 I am Mario Galarza, a Data Analyst with honors degrees in Business Management and Accounting. Since discovering Business Intelligence tools in my first job, I have become passionate about data analysis and its ability to generate actionable insights that drive business results.
+👋🏻 I am Mario Galarza, a Data Analyst. Since discovering Business Intelligence tools in my first job, I have become passionate about data analysis and its ability to generate actionable insights that drive business results.
 
 🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Qlik Sense, Microsoft Power BI, Looker Studio, Python, ETL, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic and Mercado Libre, achieving notable objectives:
 
