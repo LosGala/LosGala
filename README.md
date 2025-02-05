@@ -1,20 +1,19 @@
 ### Hi, I am Mario A. Galarza Mancedo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">]
-<hr/>
+
 
 ### I am a Full-stack Developer Python expert and Data Analyst. 
 - 🔭 I just tried to make a readme file for my github account.<br />
 - 🌱 I’m currently learning Machine Learning.<br />
 - 👯 I’m wanting to create more awesome projects.<br />
-- 🥅 2023 Goals: Contribute more to Open Source projects.<br />
+
 
 <br/>
-<hr/>
+
 
 
 [<img align="right"  src="https://i.imgur.com/rLFiAr5.gif" alt="Coder GIF" height="280">]
 
-<hr/>
 
 
 ### ⚙ Languages and Tools:
