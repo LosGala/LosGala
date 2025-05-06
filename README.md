@@ -34,7 +34,7 @@
 - **QA Tester** – Personal Projects  
 - **BI Analyst Consultant** – Casa Hospital San Juan de Dios 
 - **QA & Data Automation Analyst** – Farmalife  
-- **QA Assistant / Process Analyst** – RV Distribution  
+- **Data Analyst** – RV Distribution  
 
 ---
 
