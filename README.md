@@ -31,10 +31,10 @@
 
 ## 💼 Experience
 
-- **QA Tester (in training)** – Personal Projects  
-- **BI Analyst Consultant** – Sciarriello Distributions  
-- **Big Data & Analytics Analyst** – Farmalife  
-- **Business Analyst** – RV Distribution  
+- **QA Tester** – Personal Projects  
+- **BI Analyst Consultant** – Casa Hospital San Juan de Dios 
+- **QA & Data Automation Analyst** – Farmalife  
+- **QA Assistant / Process Analyst** – RV Distribution  
 
 ---
 
