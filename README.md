@@ -1,83 +1,51 @@
 # 👨‍💼 Mario Galarza
 
-**`Data Analyst | Developer Python`**
+**`QA Automation Tester | Python Developer`**
 
-👋🏻 I am Mario Galarza, a Data Analyst. Since discovering Business Intelligence tools in my first job, I have become passionate about data analysis and its ability to generate actionable insights that drive business results.
+👋🏻 Hi, I'm Mario Galarza, an Entry-Level QA Automation Tester with a background in Data Analysis and a strong foundation in Python development. I’m passionate about building robust testing processes that ensure high software quality and efficient development cycles.
 
-🔎 This curiosity led me on an intensive path of learning and work experience, developing skills in Qlik Sense, Microsoft Power BI, Looker Studio, Python, ETL, Dashboards, and bilingual English. These competencies have allowed me to gain international experience in startups and large tech companies, such as General Atlantic and Mercado Libre, achieving notable objectives:
+🚀 My journey began in Business Intelligence, but my curiosity for quality and technology led me to specialize in software testing. I have hands-on experience using Python, Selenium, and Git, and I’m currently expanding my skills in automated testing frameworks, test case design, and API testing.
 
-📊 Managed over 100 initiatives through BI solutions, reducing project management times.
-💎 Facilitated securing over USD 15M in funding for local and international clients.
-📈 Developed dashboards to visualize and control over USD 80M in revenue.
-👨🏻‍💻 Contact me if you are looking for a professional Data Analyst with solid technical and business skills. I am committed to generating valuable analysis and producing results through data and technology applied to business.
+🛠️ My goal is to contribute to agile development teams by writing clean, automated tests and helping to detect and resolve issues early in the development lifecycle.
 
-📫 Reach me at: [losgala911@hotmail.com](mailto:losgala911@hotmail.com)
+👨🏻‍💻 I'm currently looking for remote opportunities in QA Automation where I can grow, contribute, and help teams ship better software, faster.
 
-<p align="left">
-  <a src="https://www.linkedin.com/in/losgala/">
-    <img alt="LinkedIn profile" title="Let's connect!" src="https://github.com/Tino27Gut/Tino27Gut/assets/95548866/f8d06d4d-0779-40d7-8653-6d3e121765eb" height="20px">
-  </a>
-</p>
+📫 Reach me at: [losgala911@hotmail.com](mailto:losgala911@hotmail.com) | 📱 (786) 948-3957
 
-###### Checkout my latest LinkedIn posts [here](https://www.linkedin.com/in/losgala/recent-activity/all/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Galarza-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)
 
 ---
 
-### 👨‍💻 Technologies and Languages
-<p>
-  <img alignt="left" alt="qliksense" width=60px style="padding-right:10px;" src="https://github.com/Tino27Gut/Tino27Gut/assets/95548866/0baad322-49e6-422f-94cb-fb610a08dbb1"/>
-  <img alignt="left" alt="powerbi" width=60px style="padding-right:10px;" src="https://github.com/Tino27Gut/Tino27Gut/assets/95548866/15de9809-5b0b-4d14-8fdc-f01c0406d1c8"/>
-  <img alignt="left" alt="mysql" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img alignt="left" alt="python" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img alignt="left" alt="numpy" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  <img alignt="left" alt="pandas" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  <img alignt="left" alt="html" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alignt="left" alt="css" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alignt="left" alt="javascript" width=60px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="selenium" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+  <img alt="git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="html" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="css" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="javascript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
 
-#
+---
 
-### 💼 Profesional Experience
+## 💼 Experience
 
-- BI Analyst Consultant | Sciarriello Distributions
+- **QA Tester (in training)** – Personal Projects  
+- **BI Analyst Consultant** – Sciarriello Distributions  
+- **Big Data & Analytics Analyst** – Farmalife  
+- **Business Analyst** – RV Distribution  
 
-- Big Data & Analytics Development Analyst | Farmalife 
+---
 
-- Business Analyst | RV Distribution 
+## 🎓 Education & Certifications
 
-
-### 🎓 Education
-- Databricks for Data Engineering | Databricks
-
-- Data Analytics Essentials | Cisco
-
-- Python for Data Science | IBM
-
-- Full Stack Developer | Universidad de Buenos Aires
-  
-- Medicina | Fundación Barceló
-
-- Roubineau Institute | Administration and management of organizations
-
-<!--
-**LosGala/LosGala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[react]:https://reactjs.org/
-[mysql]:https://www.mysql.com/
-[notepad++]:https://notepad-plus-plus.org/
-[python]:https://www.python.org/
-[css]:https://www.w3schools.com/css/
-[html]:https://www.w3schools.com/html/
+- 🧪 *Software Testing Fundamentals* – Cisco  
+- 🐍 *Python for Data Science* – IBM  
+- 🧑‍💻 *Full Stack Developer* – Universidad de Buenos Aires  
+- 🔍 *Databricks for Data Engineering* – Databricks  
+- 🩺 *Medicine (4 years)* – Fundación Barceló  
+- 📈 *Business Administration* – Roubineau Institute  
 
 
 
