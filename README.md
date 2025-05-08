@@ -1,51 +1,79 @@
 # 👨‍💼 Mario Galarza
+**`Junior Data Engineer | ETL & Cloud Automation Specialist`**
 
-**`QA Automation Tester | Python Developer`**
+👋 Hi, I'm Mario Galarza - Data Engineer passionate about building efficient data pipelines and ensuring quality in cloud environments. Transitioning from Business Intelligence to Data Engineering with strong Python/SQL skills and cloud certifications.
 
-👋🏻 Hi, I'm Mario Galarza, an Entry-Level QA Automation Tester with a background in Data Analysis and a strong foundation in Python development. I’m passionate about building robust testing processes that ensure high software quality and efficient development cycles.
+🌐 **Cloud & Data Stack Enthusiast** | 🔍 **Detail-Oriented Problem Solver** | 🚀 **Agile Team Collaborator**
 
-🚀 My journey began in Business Intelligence, but my curiosity for quality and technology led me to specialize in software testing. I have hands-on experience using Python, Selenium, and Git, and I’m currently expanding my skills in automated testing frameworks, test case design, and API testing.
+📫 Reach me: [losgala911@hotmail.com](mailto:losgala911@hotmail.com) | 📱 (786) 948-3957 (WhatsApp)
 
-🛠️ My goal is to contribute to agile development teams by writing clean, automated tests and helping to detect and resolve issues early in the development lifecycle.
-
-👨🏻‍💻 I'm currently looking for remote opportunities in QA Automation where I can grow, contribute, and help teams ship better software, faster.
-
-📫 Reach me at: [losgala911@hotmail.com](mailto:losgala911@hotmail.com) | 📱 (786) 948-3957
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Galarza-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Engineer_Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)
+[![GitHub](https://img.shields.io/badge/GitHub-Data_Projects-black?logo=github&style=for-the-badge)](https://github.com/LosGala)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Arsenal
 
+**Cloud & Data Engineering**  
 <p align="left">
   <img alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="selenium" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
-  <img alt="git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="html" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="css" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="javascript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="databricks" width="50px" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
+  <img alt="oracle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img alt="postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="powerbi" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img alt="aws" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
 </p>
+
+**Core Competencies**:  
+✅ ETL/ELT Pipelines | ✅ Cloud Data Migration | ✅ API Integration  
+✅ Data Quality Assurance | ✅ BI Automation | ✅ Agile Development
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-- **QA Tester** – Personal Projects  
-- **BI Analyst Consultant** – Casa Hospital San Juan de Dios 
-- **QA & Data Automation Analyst** – Farmalife  
-- **Data Analyst** – RV Distribution  
+### [Healthcare ETL Automation](https://github.com/LosGala/healthcare-etl)
+**Tech Stack**: Python | Databricks | Oracle Cloud | Postman  
+- Built automated pipeline for patient data processing
+- Reduced validation errors by 30% with Python scripts
+- Implemented API testing for data integrity checks
+
+### [Sales Dashboard Automation](https://github.com/LosGala/sales-automation)
+**Tech Stack**: Power BI | Python | SQL  
+- Automated weekly sales reports generation
+- Integrated data from 10+ sources using web scraping
+- Reduced manual work by 50%
+
+---
+
+## 💼 Professional Journey
+
+**BI & Data Automation Analyst** @ Farmalife (2024)  
+- Developed Python ETL pipelines for marketing insights
+- Increased revenue by 15% through data-driven strategies
+
+**BI Analyst Consultant** @ Hospital San Juan de Dios (2024)  
+- Designed real-time healthcare dashboards
+- Implemented data validation workflows
+
+**Business Analyst** @ RV Distribution (2022-2023)  
+- Created predictive models identifying 20% cross-sell potential
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🧪 *Software Testing Fundamentals* – Cisco  
-- 🐍 *Python for Data Science* – IBM  
-- 🧑‍💻 *Full Stack Developer* – Universidad de Buenos Aires  
-- 🔍 *Databricks for Data Engineering* – Databricks  
-- 🩺 *Medicine (4 years)* – Fundación Barceló  
-- 📈 *Business Administration* – Roubineau Institute  
+- **Databricks Fundamentals** (Databricks, 2024)
+- **Oracle Cloud Data Management** (Oracle, 2023)
+- **Google Data Analytics** (Coursera, 2024)
+- **Full Stack Developer** (University of Buenos Aires, 2023)
+- **IBM Python for Data Science** (IBM, 2023)
 
+---
 
+## 🔍 What I'm Exploring Next
+- AWS Cloud Engineering certifications
+- Advanced Spark optimization techniques
+- Data security best practices in cloud environments
 
+🌟 **Open to Remote Data Engineering Opportunities** - Let's connect and build better data solutions!
