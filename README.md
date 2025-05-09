@@ -1,5 +1,5 @@
 # 👨‍💼 Mario Galarza
-**`Junior Data Engineer | ETL & Cloud Automation Specialist`**
+**`Junior Data Engineer | ETL & Cloud Specialist`**
 
 👋 Hi, I'm Mario Galarza - Data Engineer passionate about building efficient data pipelines and ensuring quality in cloud environments. Transitioning from Business Intelligence to Data Engineering with strong Python/SQL skills and cloud certifications.
 
