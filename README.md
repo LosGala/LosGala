@@ -1,79 +1,83 @@
-# 👨‍💼 Mario Galarza
-**`Junior Data Engineer | ETL & Cloud Specialist`**
+# 🧭 Mario Galarza  
+**`Cybersecurity Analyst | SOC Operations | Python & SIEM | Data-Driven Blue Team`**
 
-👋 Hi, I'm Mario Galarza - Data Engineer passionate about building efficient data pipelines and ensuring quality in cloud environments. Transitioning from Business Intelligence to Data Engineering with strong Python/SQL skills and cloud certifications.
+👋 Hi, I'm Mario Galarza – Cybersecurity Analyst with a strong foundation in **data analysis, threat detection, and security automation**. I bring hands-on experience in ETL pipelines, Python scripting, and dashboard building — now fully applied to **SOC operations and threat visibility**.
 
-🌐 **Cloud & Data Stack Enthusiast** | 🔍 **Detail-Oriented Problem Solver** | 🚀 **Agile Team Collaborator**
+🌐 **Blue Team Enthusiast** | 🐍 **Python for Security Automation** | 📊 **Data-Informed Threat Hunter**
 
-📫 Reach me: [losgala911@hotmail.com](mailto:losgala911@hotmail.com) | 📱 (786) 948-3957 (WhatsApp)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Engineer_Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)
-[![GitHub](https://img.shields.io/badge/GitHub-Data_Projects-black?logo=github&style=for-the-badge)](https://github.com/LosGala)
+📫 Contact: [losgala911@hotmail.com](mailto:losgala911@hotmail.com) | 📱 WhatsApp: (786) 948-3957  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cybersecurity_Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Security_Projects-black?logo=github&style=for-the-badge)](https://github.com/LosGala)
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛡️ Core Competencies & Tools
 
-**Cloud & Data Engineering**  
 <p align="left">
-  <img alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="databricks" width="50px" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" />
-  <img alt="oracle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  <img alt="postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-  <img alt="powerbi" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img alt="aws" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="splunk" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Splunk_logo.svg" />
+  <img alt="elastic" width="50px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
+  <img alt="wireshark" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_Logo.svg" />
 </p>
 
-**Core Competencies**:  
-✅ ETL/ELT Pipelines | ✅ Cloud Data Migration | ✅ API Integration  
-✅ Data Quality Assurance | ✅ BI Automation | ✅ Agile Development
+✔️ Log Analysis (Windows, Linux, Sysmon)  
+✔️ SIEM Tools: Splunk, Elastic Stack  
+✔️ Python for Log Parsing & Alert Automation  
+✔️ Threat Intelligence (MITRE ATT&CK, IOC correlation)  
+✔️ PCAP Analysis & Malware Traffic Inspection  
+✔️ Incident Response Workflows (in progress)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Security Projects
 
-### [Healthcare ETL Automation](https://github.com/LosGala/healthcare-etl)
-**Tech Stack**: Python | Databricks | Oracle Cloud | Postman  
-- Built automated pipeline for patient data processing
-- Reduced validation errors by 30% with Python scripts
-- Implemented API testing for data integrity checks
+### 🔍 [Log Parser & Alert Automation](https://github.com/LosGala/log-parser-alerts)  
+**Tech**: Python | Regex | Linux Logs  
+- Automates parsing of `/var/log/auth.log` to detect failed login attempts and generate alerts
 
-### [Sales Dashboard Automation](https://github.com/LosGala/sales-automation)
-**Tech Stack**: Power BI | Python | SQL  
-- Automated weekly sales reports generation
-- Integrated data from 10+ sources using web scraping
-- Reduced manual work by 50%
+### 🕵️ [PCAP Network Analysis Lab](https://github.com/LosGala/wireshark-lab)  
+**Tech**: Wireshark | TCP/UDP Traffic  
+- Analyzes packet captures for suspicious behavior, port scanning, and malware indicators
 
----
-
-## 💼 Professional Journey
-
-**BI & Data Automation Analyst** @ Farmalife (2024)  
-- Developed Python ETL pipelines for marketing insights
-- Increased revenue by 15% through data-driven strategies
-
-**BI Analyst Consultant** @ Hospital San Juan de Dios (2024)  
-- Designed real-time healthcare dashboards
-- Implemented data validation workflows
-
-**Business Analyst** @ RV Distribution (2022-2023)  
-- Created predictive models identifying 20% cross-sell potential
+### 📊 [Threat Dashboard Concept (WIP)](https://github.com/LosGala/threat-dashboards)  
+**Tech**: Power BI | Python | JSON Logs  
+- Visualizes security incidents using dashboards that correlate event types and severity over time
 
 ---
 
-## 🎓 Education & Certifications
+## 💼 Past Experience
 
-- **Databricks Fundamentals** (Databricks, 2024)
-- **Oracle Cloud Data Management** (Oracle, 2023)
-- **Google Data Analytics** (Coursera, 2024)
-- **Full Stack Developer** (University of Buenos Aires, 2023)
-- **IBM Python for Data Science** (IBM, 2023)
+**Data Engineer / BI Analyst** (2022–2024)  
+- Built ETL pipelines with Python and SQL  
+- Integrated data from multiple sources (APIs, Cloud)  
+- Applied data automation techniques — now translated into security automation use cases
 
 ---
 
-## 🔍 What I'm Exploring Next
-- AWS Cloud Engineering certifications
-- Advanced Spark optimization techniques
-- Data security best practices in cloud environments
+## 🎓 Training & Certifications
 
-🌟 **Open to Remote Data Engineering Opportunities** - Let's connect and build better data solutions!
+- 📘 **Cisco Cybersecurity Essentials**  
+- 🛠️ **Cisco Networking Basics**  
+- 🔐 **Splunk Security Use Cases (CyberWork)**  
+- 🧠 **Google IT Support Fundamentals**  
+- 🐧 **Linux Terminal & Bash (Platzi)**  
+- 🧪 Currently practicing on TryHackMe & Blue Team Labs
+
+---
+
+## 🧭 What I'm Exploring Now
+
+- Detection Engineering & Alert Triage  
+- MITRE ATT&CK Mapping  
+- Cloud Security Best Practices (AWS)  
+- Automating IOC Enrichment & Threat Feeds  
+- Building a Home SOC Lab
+
+---
+
+### 🌍 Open to remote roles across the U.S. or Europe
+
+**Let's connect** if you're hiring a security-focused, data-literate analyst with real drive and a passion for Blue Team operations.
+
