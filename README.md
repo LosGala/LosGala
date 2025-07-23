@@ -5,7 +5,7 @@
 
 🌐 **Cross-industry Data Solutions** | 🐍 **Python for ETL & Automation** | 📊 **Power BI Dashboards with Impact**
 
-📫 Contact: [losgala911@gmail.com](mailto:losgala911@gmail.com) | 📱 WhatsApp: (786) 948-3957  
+📫 Contact: [losgala911@gmail.com](mailto:losgala911@gmail.com) | 📱 WhatsApp: (786) 499-1598  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Data_Projects-black?logo=github&style=for-the-badge)](https://github.com/LosGala)
 
