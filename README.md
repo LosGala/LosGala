@@ -1,83 +1,119 @@
 # 🧭 Mario Galarza  
-**`Cybersecurity Analyst | SOC Operations | Python & SIEM | Data-Driven Blue Team`**
+**`Data Engineer / Analyst | Python · SQL · Power BI · ETL Pipelines | Remote-Ready`**
 
-👋 Hi, I'm Mario Galarza – Cybersecurity Analyst with a strong foundation in **data analysis, threat detection, and security automation**. I bring hands-on experience in ETL pipelines, Python scripting, and dashboard building — now fully applied to **SOC operations and threat visibility**.
+👋 Hi, I'm Mario Galarza – a Data Engineer / Analyst with hands-on experience in **Python, SQL, ETL pipelines, and interactive dashboards**. I help organizations transform raw data into actionable insights — with a strong focus on healthcare, business operations, and performance analytics.
 
-🌐 **Blue Team Enthusiast** | 🐍 **Python for Security Automation** | 📊 **Data-Informed Threat Hunter**
+🌐 **Cross-industry Data Solutions** | 🐍 **Python for ETL & Automation** | 📊 **Power BI Dashboards with Impact**
 
-📫 Contact: [losgala911@hotmail.com](mailto:losgala911@hotmail.com) | 📱 WhatsApp: (786) 948-3957  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cybersecurity_Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Security_Projects-black?logo=github&style=for-the-badge)](https://github.com/LosGala)
+📫 Contact: [losgala911@gmail.com](mailto:losgala911@gmail.com) | 📱 WhatsApp: (786) 948-3957  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Data_Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/losgala/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Data_Projects-black?logo=github&style=for-the-badge)](https://github.com/LosGala)
 
 ---
 
-## 🛡️ Core Competencies & Tools
+## ⚙️ Core Skills & Tools
 
 <p align="left">
   <img alt="python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="sql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="powerbi" width="50px" src="https://img.icons8.com/color/48/power-bi.png" />
+  <img alt="excel" width="50px" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
+  <img alt="git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img alt="splunk" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Splunk_logo.svg" />
-  <img alt="elastic" width="50px" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />
-  <img alt="wireshark" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_Logo.svg" />
 </p>
 
-✔️ Log Analysis (Windows, Linux, Sysmon)  
-✔️ SIEM Tools: Splunk, Elastic Stack  
-✔️ Python for Log Parsing & Alert Automation  
-✔️ Threat Intelligence (MITRE ATT&CK, IOC correlation)  
-✔️ PCAP Analysis & Malware Traffic Inspection  
-✔️ Incident Response Workflows (in progress)
+✔️ ETL Pipelines with Python and SQL  
+✔️ Data Cleaning & Integration (APIs, CSV, JSON)  
+✔️ Power BI Dashboards & Storytelling  
+✔️ Automating Reports & Excel Workflows  
+✔️ Healthcare and Logistics Analytics  
+✔️ Data Quality, Validation, and Optimization
 
 ---
 
-## 🚀 Featured Security Projects
+## 🚀 Featured Data Projects
 
-### 🔍 [Log Parser & Alert Automation](https://github.com/LosGala/log-parser-alerts)  
-**Tech**: Python | Regex | Linux Logs  
-- Automates parsing of `/var/log/auth.log` to detect failed login attempts and generate alerts
+### 📊 [Patient Care Dashboard (Power BI)](https://github.com/LosGala/patient-care-dashboard)
+**Tech**: Python · Power BI · Excel  
+- Visual dashboard for clinical data: appointments, departments, and patient volume  
+- Built from cleaned CSVs and Python-based ETL workflow
 
-### 🕵️ [PCAP Network Analysis Lab](https://github.com/LosGala/wireshark-lab)  
-**Tech**: Wireshark | TCP/UDP Traffic  
-- Analyzes packet captures for suspicious behavior, port scanning, and malware indicators
+### 🧪 [Pharmacy Product ETL Pipeline](https://github.com/LosGala/pharmacy-etl)
+**Tech**: Python · Web Scraping · pandas  
+- Scrapes pharmacy product data from public sources  
+- Cleans and loads data into structured CSV for business reports
 
-### 📊 [Threat Dashboard Concept (WIP)](https://github.com/LosGala/threat-dashboards)  
-**Tech**: Power BI | Python | JSON Logs  
-- Visualizes security incidents using dashboards that correlate event types and severity over time
-
----
-
-## 💼 Past Experience
-
-**Data Engineer / BI Analyst** (2022–2024)  
-- Built ETL pipelines with Python and SQL  
-- Integrated data from multiple sources (APIs, Cloud)  
-- Applied data automation techniques — now translated into security automation use cases
+### 🚚 [Logistics Analytics Dashboard](https://github.com/LosGala/logistics-analysis)
+**Tech**: SQL · Power BI · Excel  
+- Tracks delivery KPIs, cost trends, and inventory levels  
+- Simulates real-time decision-making in retail or e-commerce
 
 ---
 
-## 🎓 Training & Certifications
+## 🔐 Security Awareness in Data
 
-- 📘 **Cisco Cybersecurity Essentials**  
-- 🛠️ **Cisco Networking Basics**  
-- 🔐 **Splunk Security Use Cases (CyberWork)**  
-- 🧠 **Google IT Support Fundamentals**  
-- 🐧 **Linux Terminal & Bash (Platzi)**  
-- 🧪 Currently practicing on TryHackMe & Blue Team Labs
+While my primary focus is data engineering and analytics, I also bring a foundational background in **cybersecurity**. This allows me to:
+
+- Handle sensitive and health-related data with compliance in mind  
+- Apply basic **security controls** in ETL and reporting pipelines  
+- Detect anomalies and suspicious patterns in datasets  
+- Contribute to **data protection and privacy practices** in business workflows
+
+📘 **Cybersecurity Training**:
+- Cisco Cybersecurity Essentials  
+- Google IT Support Fundamentals  
+- Splunk for Security Use Cases  
+- Linux & Bash Scripting (Platzi)
+
+🧪 Currently exploring:  
+- Blue Team Labs / TryHackMe  
+- Data security in cloud environments (AWS, GCP)
 
 ---
 
-## 🧭 What I'm Exploring Now
+## 💼 Professional Background
 
-- Detection Engineering & Alert Triage  
-- MITRE ATT&CK Mapping  
-- Cloud Security Best Practices (AWS)  
-- Automating IOC Enrichment & Threat Feeds  
-- Building a Home SOC Lab
+**Data Analytics & BI Consultant** – Milenia Energía S.A. (2025 – Present)  
+- Built automated dashboards for operational insights  
+- Developed Python + SQL pipelines for report automation  
+- Integrated multi-source data for strategic analysis  
+
+**BI Analyst Consultant** – Casa Hospital San Juan de Dios (2024)  
+- ETL pipelines for patient care reporting  
+- Automation reduced manual workload by 40%  
+
+**Big Data Analyst** – Farmalife (2024)  
+- Python web scraping and ETL into Power BI  
+- Supported pharmacy marketing team with sales analytics  
+
+**Data Analyst** – RV Distribution (2022–2023)  
+- Dashboards and report automation for inventory and finance  
+- Supported data testing and QA during system updates
 
 ---
 
-### 🌍 Open to remote roles across the U.S. or Europe
+## 🎓 Certifications & Learning
 
-**Let's connect** if you're hiring a security-focused, data-literate analyst with real drive and a passion for Blue Team operations.
+- 📘 Data Analytics Essentials (Cisco)  
+- 📊 Postman API Fundamentals  
+- 🧠 Google IT Support (Foundational)  
+- 🛠️ Programming Using NodeJS (logic-focused)  
+- 🧪 Cybersecurity Essentials + Linux Fundamentals  
+- 🐍 Ongoing Python & SQL refinement through projects
+
+---
+
+## 📚 Currently Exploring
+
+- dbt and modern data stack tools  
+- Automating BI reporting with Python  
+- Cloud databases (BigQuery / AWS RDS)  
+- Healthcare data governance & compliance  
+- Building a remote-ready portfolio for freelance & full-time
+
+---
+
+### 🌍 Open to remote roles across the U.S., Europe & LATAM
+
+**Let’s connect** if you're hiring a data-driven, security-aware professional who can turn complex data into simple decisions.
 
