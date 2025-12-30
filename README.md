@@ -3,7 +3,7 @@
 **Data Engineer**  
 Python · SQL · AWS · Spark · Airflow · dbt  
 
-📍 Miami, FL — Open to Remote Opportunities
+Open to Remote Opportunities
 
 ---
 
