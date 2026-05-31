@@ -2,7 +2,7 @@
 **Security & Data Analyst | Blue Team | Python · SQL · SIEM**
 
 📧 losgala911@gmail.com
-💼 linkedin.com/in/losgala
+💼 [linkedin.com/in/losgala](https://www.linkedin.com/in/losgala/)
 
 ---
 
