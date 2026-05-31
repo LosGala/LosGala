@@ -1,81 +1,61 @@
-# 👋 Hi, I'm Mario Galarza
+# Mario Galarza
+**Security & Data Analyst | Blue Team | Python · SQL · SIEM**
 
-**Data Engineer**  
-Python · SQL · AWS · Spark · Airflow · dbt  
-
-Open to Remote Opportunities
-
----
-
-## 🚀 About Me
-
-Data Engineer with a strong foundation in **data analysis and applied data science**, focused on building reliable, reproducible, and well-structured data solutions.
-
-My background includes hands-on experience with **data exploration, statistical analysis, machine learning models, and data-driven decision making**, which supports my current focus on scalable data pipelines, data quality, and modern data platforms.
+📍 Argentina → Open to relocate Miami, FL
+📧 losgala911@gmail.com
+💼 linkedin.com/in/losgala
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Languages**  
-- Python, SQL, R, Bash  
+Data & Security Analyst with 2+ years of experience building 
+automation pipelines, anomaly detection systems, and 
+security-focused monitoring solutions.
 
-**Data & Analytics**  
-- Pandas, NumPy, Scikit-learn  
-- Jupyter Notebook, Google Colab  
-
-**Cloud & Data Platforms**  
-- AWS (S3, Lambda, Glue – learning & practice)  
-- Apache Spark (in progress)  
-
-**Databases**  
-- PostgreSQL, MySQL  
-
-**Tools**  
-- Git, Docker (basic), Power BI  
+Expanding into Blue Team operations — SIEM, threat detection, 
+IAM/RBAC, and incident analysis.
 
 ---
 
-## 📂 Projects
+## Tech Stack
 
-This GitHub showcases projects focused on **data analysis, applied machine learning, and statistical modeling**, including:
+**Security**
+- SIEM · Splunk · Fortinet · IAM/RBAC · Audit Logging
+- Anomaly Detection · Event Correlation · Threat Monitoring
 
-- Exploratory Data Analysis (EDA) on real-world datasets  
-- Predictive models for healthcare, sports, and socioeconomic data  
-- Classification and regression models using Python and R  
-- End-to-end analysis workflows using Jupyter Notebook and Google Colab  
-- Data cleaning, feature engineering, and model evaluation  
+**Data & Automation**
+- Python · SQL · Power BI · Pandas · NumPy
+- Selenium · ETL Pipelines · Data Validation
 
-Highlighted topics include:
-- Health analytics (BMI, diabetes prediction)  
-- Human development and public data analysis  
-- Sports and entertainment analytics  
-- Supervised learning (classification & regression)  
-- Neural networks and TensorFlow fundamentals  
-
-Each repository contains reproducible notebooks and documented analytical steps.
+**Cloud & Tools**
+- Databricks · Google Cloud · Docker · Git
 
 ---
 
-## 🎯 Current Focus
+## Featured Projects
 
-- Transitioning analytical projects into **production-ready data pipelines**  
-- Strengthening SQL-based data modeling  
-- Spark for large-scale data processing  
-- Cloud-oriented data engineering workflows  
-
----
-
-## 🌍 Languages
-
-- Spanish: Native  
-- English: Full Professional  
+| Project | Stack | Description |
+|---|---|---|
+| [Crime Analysis BA 2022](https://github.com/LosGala/AnalisisDelitos2022) | Python · Power BI | Crime pattern analysis — Buenos Aires |
+| [Diabetes Prediction](https://github.com/LosGala/Diabetes_Prediction) | Python · ML | Healthcare classification model |
+| [Neural Network Temperature](https://github.com/LosGala/RedNeuronalTemperatura) | TensorFlow · Python | Predictive neural network |
+| [Movie Portfolio Project](https://github.com/LosGala/MoviePorfolioProject) | Python · EDA | Exploratory analysis, outlier detection |
+| [Human Development Analysis](https://github.com/LosGala/Nations-Desarrollo-Humano) | Python · Pandas | Socioeconomic correlation analysis |
 
 ---
 
-## 📫 Contact
+## Certifications
 
-- 💼 LinkedIn: https://www.linkedin.com/in/losgala  
-- 📧 Email: losgala911@gmail.com  
+- ISC2 CC — Official Training (2026)
+- Fortinet Certified Associate in Cybersecurity (2024)
+- SOC Essentials: Investigating with Splunk (2024)
+- Databricks Data Engineering (2025)
+- Google Cloud Security Fundamentals (2024)
+- IBM Python for Data Science (2025)
 
-⭐ Feel free to explore the repositories and review the code.
+---
+
+## Languages
+- Spanish: Native
+- English: Full Professional
