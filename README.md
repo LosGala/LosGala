@@ -1,7 +1,6 @@
 # Mario Galarza
 **Security & Data Analyst | Blue Team | Python · SQL · SIEM**
 
-📍 Argentina → Open to relocate Miami, FL
 📧 losgala911@gmail.com
 💼 linkedin.com/in/losgala
 
